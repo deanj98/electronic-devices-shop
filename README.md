@@ -1,6 +1,10 @@
 # electronic-devices-shop
-in this project we will use create react app to byild a front end's of single page application.
+in this project we will use create react app to build a frontend's of single page application(SPA).
+
 and in countinu we will install express api to pass the data to db than incleude such as mysql or mongodb databas.
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 npm packages use in this project=>
