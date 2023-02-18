@@ -1,0 +1,153 @@
+/* header section */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-container{
+    background-color: #b3d618;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 50px;
+    color: black;
+    width: 50px;
+    cursor: pointer;
+}
+
+.night-mode{
+    cursor: pointer;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    
+}
+
+.menu-list{
+   display: flex;
+   list-style: none;
+   border: 1px solid black;
+   border-radius: 10px;
+   background-color: black;
+   padding: 5px 5px 5px 5px;
+}
+
+.menu-item{
+display: flex;
+margin-right: 20px;
+font-size: 30px;
+border-radius: 10px;
+}
+.menuBash{
+    color: red;
+}
+
+.link-item{
+    color: white;
+    text-decoration: none;
+
+}
+
+.link-item:hover{
+    background-color: gray;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.sub-header{
+margin: 50px 0px 30px 120px ;
+
+}
+
+.whole-body{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.kimbo{
+    font-weight: 900;
+}
+
+/* dark mode */
+.dark-mode{
+display: flex;
+justify-content: flex-end;
+}
+
+.dark-text{
+    font-size :20px;
+    font-weight: 700;
+    
+}
+
+.dark-icon{
+    font-size: 25px;
+    margin: 5px 0px 0px 3px;
+}
+
+
+/* filter prodoucts */
+.filter-prodoucts{
+    
+    background-color: #b3d618;
+    border-radius: 10px;
+    margin: 10px 0px 10px 10px;
+    min-width: 180px;
+   
+}
+
+
+/*hero section*/
+.hero-container{    
+    background-color: gray;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width:1000px;
+}
+.title-hero{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.prodoucts-news{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+/*prodouct section*/
+
+
+
+/*prodoucts section*/
+
+
+
+
+/*footer section*/
+.footer-container{
+background-color: #b3d618;
+width: 100%;
+height: 6rem;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: -10px;
+position: relative;
+border-radius: 10px;
+}

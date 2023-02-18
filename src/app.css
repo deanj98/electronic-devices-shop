@@ -1,0 +1,17 @@
+/* body{
+    background-color: black;
+
+} */
+
+.main-body{
+    margin: 0rem 5rem 0rem 5rem;
+
+}
+
+.footer-body{
+    position: relative;
+    bottom: 0;
+    width: 88%;
+    margin: 0rem 5rem 0rem 5rem;
+
+}
